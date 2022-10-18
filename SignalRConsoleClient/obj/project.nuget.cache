@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QmfJLizkKshxhy/4fwicg2TV5X97t7xOafYueEXbBqTy5R6LjcIzzfDIs8Njj9Kd0kbWJKFcyVMdsTiirWuEA==",
+  "success": false,
+  "projectFilePath": "/Users/ahmadhfr/Documents/work/fori/asli/SignalRConsoleClient/consoelApps.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Client"
+    }
+  ]
+}
