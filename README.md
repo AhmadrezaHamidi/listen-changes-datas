@@ -6,7 +6,9 @@ Instructions :
 src="https://user-images.githubusercontent.com/61118112/196400255-17265a91-df07-4e64-aeab-37b78154562a.png">
 	
 	
-	</br>
+	
+	
+	
 	2.	Reading data from data base by View
 	3.	Setting up a sample code webAPI and a DB context for reading data from database
 	4.	Setting up Signal R Hub in order to connect users to Hub
