@@ -7,7 +7,7 @@ Instructions :
 <img width="337" alt="Screen Shot 1401-07-25 at 14 02 05" 
 src="https://user-images.githubusercontent.com/61118112/196400255-17265a91-df07-4e64-aeab-37b78154562a.png">
 	
-	
+	D
 	
 	
 	1.	Setting up a CDC data base
